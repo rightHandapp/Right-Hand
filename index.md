@@ -1,4 +1,4 @@
-## Welcome to Right Hand Support!
+## Welcome to Right Hand!
 
 
 RightHand makes life easier for professionals by using technology to eliminate the hassles associated with scheduling.  RightHand is a simple app that connects users’ phone calendar to automatically look at scheduled openings on the calendar to determine meeting availability without the back and forth. 
