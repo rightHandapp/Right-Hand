@@ -3,3 +3,5 @@ theme: jekyll-theme-cayman
 # Setup
 title: Right Hand App
 tagline: Scheduling and Productivity
+github:
+  is_project_page: false
